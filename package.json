@@ -1,0 +1,22 @@
+{
+  "name": "string-calculator",
+  "version": "1.0.0",
+  "main": "stringCalculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parthiv-03/Incubyte-assesment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parthiv-03/Incubyte-assesment/issues"
+  },
+  "homepage": "https://github.com/Parthiv-03/Incubyte-assesment#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
