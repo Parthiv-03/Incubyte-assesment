@@ -75,4 +75,14 @@ npm install
 npm test
 ```
 
+---
+
+## 🖼️ Output
+
+Below is an example screenshot of the Jest test output.  
+It shows that all test cases pass successfully ✔️
+
+![Test Output](./screenshot/test.png)
+
+
 
